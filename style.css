@@ -1,0 +1,50 @@
+/* ======= GLOBAL ======= */
+.stApp {
+    background: linear-gradient(135deg, #0d0d21, #222244);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* ======= TITLE ======= */
+h1, h2, h3 {
+    color: #00ffcc;
+    text-align: center;
+    font-weight: 600;
+}
+
+/* ======= METRICS ======= */
+[data-testid="stMetricValue"] {
+    color: #7f5af0;
+    font-weight: bold;
+}
+
+/* ======= BUTTONS ======= */
+.stButton>button {
+    background: linear-gradient(90deg, #7f5af0, #2cb67d);
+    color: white;
+    border: none;
+    border-radius: 12px;
+    padding: 10px 20px;
+    transition: 0.3s ease;
+    font-weight: 600;
+}
+
+.stButton>button:hover {
+    transform: scale(1.05);
+}
+
+/* ======= UPLOAD ======= */
+.stFileUploader {
+    border: 2px dashed #2cb67d;
+    border-radius: 12px;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.05);
+}
+
+/* ======= METRIC CONTAINER ======= */
+.metric-row {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 20px 0;
+}
