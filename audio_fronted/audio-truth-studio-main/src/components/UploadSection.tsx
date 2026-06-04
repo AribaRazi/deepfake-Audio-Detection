@@ -125,7 +125,7 @@ export const UploadSection = ({ onAnalysisComplete }: { onAnalysisComplete: (dat
     toast.loading("Analyzing audio...");
 
     try {
-      const response = await fetch("http://127.0.0.1:8080/predict", {
+      const response = await fetch("https://deepfake-audio-detection-ydqh.onrender.com/predict", {
         method: "POST",
         body: formData,
       });
