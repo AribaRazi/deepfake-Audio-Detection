@@ -405,6 +405,7 @@ http://localhost:5173
 ---
 
 # 📸 Application Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/880a4ddd-0599-4f42-be8d-d9ad78f5af37" />
 
 ## Feature Analysis Dashboard
 
@@ -416,6 +417,7 @@ Displays extracted audio characteristics:
 * Chroma Features
 * RMS Energy
 * Spectral Rolloff
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c006c47-7615-4026-85c0-061dc1c670b5" />
 
 ## Prediction Report
 
@@ -428,6 +430,9 @@ Displays:
 * Features Analyzed
 * Model Version
 * Key Indicators
+<img width="353" height="392" alt="image" src="https://github.com/user-attachments/assets/87e516c9-203f-48a5-8a08-095cd632e90e" />
+<img width="317" height="344" alt="image" src="https://github.com/user-attachments/assets/7da731fd-2a97-4513-8358-be006051f1ad" />
+
 
 ---
 
